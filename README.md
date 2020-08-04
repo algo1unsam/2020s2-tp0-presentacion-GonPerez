@@ -1,6 +1,8 @@
 # Presentación
 
-## Estudiante: <COMPLETAR CON TU NOMBRE>
+ Estudiante de Programación. 19 años.
+
+## Estudiante:    Gonzalo Perez
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
